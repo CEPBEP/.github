@@ -28,7 +28,7 @@ The psychological trauma is caused by the extreme interrogation and propaganda t
 
 ### Cognitive Damage
 
-The cognitive damage is apparent in many cases, as targeted individuals report having the feeling that part of their brain has been turned off - not being able to concentrate, read, write, work or even communicate. Or they report feeling extremely lethargic for no reason. It could be that they report their breathing is artificially impeded causing lightheadedness and a host of other side-effects. Some report bouts of racing heart or the opposite: the sensation of near stopping of the pulse.  None of this is a recipy for good cognitive health - nor physical well-being. 
+The cognitive damage is apparent in many cases, as targeted individuals report having the feeling that part of their brain has been turned off - not being able to concentrate, read, write, work or even communicate. Or they report feeling extremely lethargic for no reason. It could be that they report their breathing is artificially impeded causing lightheadedness and a host of other side-effects. Some report bouts of racing heart or the opposite: the sensation of near stopping of the pulse.  None of this is a recipe for good cognitive health - nor physical well-being. 
 
 ### Knock-Out
 
