@@ -48,7 +48,7 @@ Usually targeting starts with trying to convince the target that their neighbors
 
 When that first phase fails, the program switches to pulling targeted individuals into fantastical fringe conspiracy theories, concerning often used tropes from Hollywood and the mainstream media (UFOs, demons, time travel, being "chosen ones", etc). The synthetic telepathy often mimics the "psychic driving" technique known from the surviving MKULTRA documents. 
 
-Lastly when the target is still not down and out, the physical attacks are ramped up and the psychological attacks become more opportunistic - waiting for a moment when the target is open to suggestion, fatigued, had too much to drink or other compromising states. And then it lashes out - hard. And then it becomes a war of attrition, one that the target usually loses.
+Lastly when the target is still not down and out, the physical attacks are ramped up and the psychological attacks become more opportunistic - waiting for a moment when the target is open to suggestion, fatigued, had too much to drink or other compromising states. And then it lashes out - hard. It becomes a war of attrition that the target usually loses.
 
 ### Our Mission
 
