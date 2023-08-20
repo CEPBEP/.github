@@ -15,49 +15,64 @@ Every day we strive to bring important research and technology into public aware
 ## Repositories
 
 **This is a list of our repositories and also forks of relevant repositories from others.**
-  
-<a href="https://github.com/subliminalindustries/SDR_Distance_Radar">
-    SDR_Distance_Radar
-</a>
-<p>
-    Gets an approximate distance from a radio source, and displays it in an HTML map with a circle around it. Your radio source is somewhere outside of the circle thanks to the neato-burrito thing called interference.
-</p>
-<a href="https://github.com/subliminalindustries/v2kblocker">
-    v2kblocker
-</a>
-<p">
-    Randomized micro-sampling V2K audio renderer
-</p>
-<a href="https://github.com/subliminalindustries/v2kbooster">
-    v2kbooster
-</a>
-<p>
-    Novel v2k audio booster using spectral salience and the smoothed derivative of the instantaneous frequency from the Hilbert transform.
-</p>
-<a href="https://github.com/subliminalindustries/neuropa">
-    neuropa
-</a>
-<p>
-    Analysis of an attack with directed energy weapons (DEW)
-</p>
-<a href="https://github.com/subliminalindustries/SDRReradiationSpectrumAnalyzer">
-    SDRReradiationSpectrumAnalyzer
-</a>
-<p>
-    A fork of ClintMclean74/SDRReradiationSpectrumAnalyzer made to compile on OS X
-</p>
-<a href="https://github.com/subliminalindustries/freydom">
-    freydom
-</a>
-<p>
-    Microwave auditory effect vocal content isolator
-</p>
-<a href="https://github.com/subliminalindustries/simple-audio-correlator">
-    simple-audio-correlator
-</a>
-<p>
-    SAC- The Simple Audio Correlator is a client/server suite for correlating the audio output of radio receivers, storing the data to disk, rejecting interference, plotting it, etc, etc..
-</p>
+
+<div>
+    <a href="https://github.com/subliminalindustries/SDR_Distance_Radar">
+        SDR_Distance_Radar
+    </a>
+    <p>
+        Gets an approximate distance from a radio source, and displays it in an HTML map with a circle around it. Your radio source is somewhere outside of the circle thanks to the neato-burrito thing called interference.
+    </p>
+</div>
+<div>
+    <a href="https://github.com/subliminalindustries/v2kblocker">
+        v2kblocker
+    </a>
+    <p>
+        Randomized micro-sampling V2K audio renderer
+    </p> 
+</div>
+<div>
+    <a href="https://github.com/subliminalindustries/v2kbooster">
+        v2kbooster
+    </a>
+    <p>
+        Novel v2k audio booster using spectral salience and the smoothed derivative of the instantaneous frequency from the Hilbert transform.
+    </p>
+</div>
+<div>
+    <a href="https://github.com/subliminalindustries/neuropa">
+        neuropa
+    </a>
+    <p>
+        Analysis of an attack with directed energy weapons (DEW)
+    </p>
+</div>
+<div>
+    <a href="https://github.com/subliminalindustries/SDRReradiationSpectrumAnalyzer">
+        SDRReradiationSpectrumAnalyzer
+    </a>
+    <p>
+        A fork of ClintMclean74/SDRReradiationSpectrumAnalyzer made to compile on OS X
+    </p>
+</div>
+<div>
+    <a href="https://github.com/subliminalindustries/freydom">
+        freydom
+    </a>
+    <p>
+        Microwave auditory effect vocal content isolator
+    </p>   
+</div>
+<div>
+    <a href="https://github.com/subliminalindustries/simple-audio-correlator">
+        simple-audio-correlator
+    </a>
+    <p>
+        SAC- The Simple Audio Correlator is a client/server suite for correlating the audio output of radio receivers, storing the data to disk, rejecting interference, plotting it, etc, etc..
+    </p>
+</div>
+
 
 ### Directed Energy Weapons Used On Citizens
 
