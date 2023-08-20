@@ -17,37 +17,47 @@ Every day we strive to bring important research and technology into public aware
 This is a list of our repositories and also forks of relevant repositories from others.
 
 📡&ensp;**RF Tools**
+[![paimons-candles](https://avatars.githubusercontent.com/u/134062846?s=14&v=4)&ensp;paimons-candles](https://github.com/subliminalindustries/paimons-candles)
+- **Description**:     Detect when and where RF beams from cell-towers hit the body
+- **Status**:          Work in Progress
+___
 
 [![SDR_Distance_Radar](https://avatars.githubusercontent.com/u/134062846?s=14&v=4)&ensp;SDR_Distance_Radar](https://github.com/subliminalindustries/SDR_Distance_Radar)
 - **Forked from**:     [SnipSnapp/SDR_Distance_Radar](https://github.com/SnipSnapp/SDR_Distance_Radar)
 - **Description**:     Gets an approximate distance from a radio source, and displays it in an HTML map with a circle around it. Your radio source is somewhere outside of the circle thanks to the neato-burrito thing called interference.
 - **Custom changes**:  Bug fixes, changes to distance estimation, dynamic circle.
-- **TODO**:            Move to [leaflet.js](https://leafletjs.com/) in order to integrate with [Paimon's Candles](#)
+- **Status**:          Work in Progress
 ___
 
 [![SDRReradiationSpectrumAnalyzer](https://avatars.githubusercontent.com/u/134062846?s=14&v=4)&ensp;SDRReradiationSpectrumAnalyzer](https://github.com/subliminalindustries/SDRReradiationSpectrumAnalyzer)
 - **Forked from**:     [ClintMclean74/SDRReradiationSpectrumAnalyzer](https://github.com/ClintMclean74/SDRReradiationSpectrumAnalyzer)
 - **Description**:     SDR Spectrum Analyzer for Detection of Reradiated and Emitted Radio and Microwave Energy from Humans
 - **Custom changes**:  Enabled compilation on OS X
+- **Status**:          Complete
+
 ___
 
 [![simple-audio-correlator](https://avatars.githubusercontent.com/u/134062846?s=14&v=4)&ensp;simple-audio-correlator](https://github.com/subliminalindustries/simple-audio-correlator)
 - **Forked from**:     [chrissamuel/simple-audio-correlator](https://github.com/chrissamuel/simple-audio-correlator)
 - **Description**:     Simple Audio Correlator is a client/server suite for correlating the audio output of radio receivers
+- **Status**:          Complete
 ___
 
 🎧 **Audio Tools**
 
 [![v2kblocker](https://avatars.githubusercontent.com/u/134062846?s=14&v=4)&ensp;v2kblocker](https://github.com/subliminalindustries/v2kblocker)
 - **Description**:     Randomized micro-sampling V2K audio renderer
+- **Status**:          Work in Progress
 ___
 
 [![v2kbooster](https://avatars.githubusercontent.com/u/134062846?s=14&v=4)&ensp;v2kbooster](https://github.com/subliminalindustries/v2kbooster)
 - **Description**:     Novel v2k audio booster using spectral salience and the smoothed derivative of the instantaneous frequency from the Hilbert transform.
+- **Status**:          Complete
 ___
 
 [![freydom](https://avatars.githubusercontent.com/u/134062846?s=14&v=4)&ensp;freydom](https://github.com/subliminalindustries/freydom)
 - **Description**:     Microwave auditory effect vocal content isolator
+- **Status**:          Complete
 ___
 
 🗃️ **Miscellaneous**
@@ -55,9 +65,10 @@ ___
 [![neuropa](https://avatars.githubusercontent.com/u/134062846?s=14&v=4)&ensp;neuropa](https://github.com/subliminalindustries/neuropa)
 - **Forked from**:     [titola/neuropa](https://github.com/titola/neuropa)
 - **Description**:     Analysis of an attack with directed energy weapons (DEW)
+- **Status**:          Complete
 ___
 
-### Directed Energy Weapons Used On Citizens
+## Directed Energy Weapons Used On Citizens
 
 In the past three decades, directed energy weapons have made their way from their military industrial origins into the global telecommunication systems (LTE/5G-NR) in the form of beamforming- and steering phased array radar and MIMO transmitters. The use of these weapons on civilians has been reported in many NATO states ("Voice2Skull", "Medusa"), the Russian Federation ("Weapons based on new physical principles"), China ("Neurostrike") and a large number of other countries. The number of people reporting severe symptoms mimicking those found in Havana Syndrome accompanied by synthetic schizophrenia and synthetic telepathy (the use of the microwave auditory effect and remote neural monitoring simultaneously) is increasing dramatically on a global scale.
 
@@ -95,14 +106,14 @@ When that first phase fails, the program switches to pulling targeted individual
 
 Lastly when the target is still not down and out, the physical attacks are ramped up and the psychological attacks become more opportunistic - waiting for a moment when the target is open to suggestion, fatigued, had too much to drink or other compromising states. And then it lashes out - hard. It becomes a war of attrition that the target usually loses.
 
-### Our Mission
+## Our Mission
 
 It is our mission to conclusively prove the use of these weapons on civilians, to do that well enough to have the results accepted with scientific rigor, and to finally hold those behind the attacks accountable for their heinous crimes against humanity. 
 
 Only a scientific and experimental approach may yield results.
 
 We are Subliminal Industries.
-We are growing.
-We are discovering.
+We are _growing_.
+We are _discovering_.
 
-We will prevail!
+**We will prevail!**
