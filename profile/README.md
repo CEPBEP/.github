@@ -45,6 +45,9 @@ Every day we strive to bring important research and technology into public aware
         neuropa
     </a>
     <p>
+        Forked from: [titola/neuropa](https://github.com/titola/neuropa).
+    </p>
+    <p>
         Analysis of an attack with directed energy weapons (DEW)
     </p>
 </div>
@@ -53,7 +56,10 @@ Every day we strive to bring important research and technology into public aware
         SDRReradiationSpectrumAnalyzer
     </a>
     <p>
-        A fork of ClintMclean74/SDRReradiationSpectrumAnalyzer made to compile on OS X
+        Forked from: [ClintMclean74/SDRReradiationSpectrumAnalyzer](https://github.com/ClintMclean74/SDRReradiationSpectrumAnalyzer) (made to compile on OS X)
+    </p>
+    <p>
+        SDR Spectrum Analyzer for Detection of Reradiated and Emitted Radio and Microwave Energy from Humans
     </p>
 </div>
 <div>
@@ -68,6 +74,9 @@ Every day we strive to bring important research and technology into public aware
     <a href="https://github.com/subliminalindustries/simple-audio-correlator">
         simple-audio-correlator
     </a>
+    <p>
+        Forked from: [chrissamuel/simple-audio-correlator](https://github.com/chrissamuel/simple-audio-correlator)
+    </p>
     <p>
         SAC- The Simple Audio Correlator is a client/server suite for correlating the audio output of radio receivers, storing the data to disk, rejecting interference, plotting it, etc, etc..
     </p>
