@@ -80,7 +80,7 @@ ___
     <img alt="targeting" width="100%" src="https://raw.githubusercontent.com/subliminalindustries/.github/main/profile/assets/celltowers.png">
 </div>
 
-The use of these weapons on civilians has been reported in many NATO states ("Voice2Skull", "Medusa"), the Russian Federation ("Weapons based on new physical principles"), China ("Neurostrike") and a large number of other countries. The number of people reporting severe symptoms mimicking those found in Havana Syndrome accompanied by synthetic schizophrenia and synthetic telepathy (the use of the microwave auditory effect and remote neural monitoring simultaneously) is increasing dramatically on a global scale.
+The use of these and previous/battlefield versions of these weapons on civilians has been reported in many NATO states ("Voice2Skull", "LRAD", "Medusa"), the Russian Federation ("Weapons based on new physical principles"), China ("Neurostrike"), Iraq ("Medusa" & unknown high power DEWs) and a large number of other countries. The number of people reporting severe symptoms mimicking those found in Havana Syndrome accompanied by synthetic schizophrenia and synthetic telepathy (the use of the microwave auditory effect and remote neural monitoring simultaneously) is increasing dramatically on a global scale.
 
 ### Invisible Concentration-Camps
 
