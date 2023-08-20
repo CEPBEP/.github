@@ -8,7 +8,7 @@
 
 ## What we do
 
-We specialize in software and hardware to detect, research and combat the use of directed energy weapons on civilians.
+We research, develop and provide software and hardware to detect, research and combat the use of directed energy weapons on civilians.
 
 Every day we strive to bring important research and technology into public awareness. Our primary mission is developing passive and active shielding the effects of directed energy weapons. Our secondary mission is researching and understanding the technologies involved and publishing our findings. Our third mission is decloaking those involved in bringing this horrible travesty of justice into our societies.
 
