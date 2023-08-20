@@ -16,37 +16,37 @@ Every day we strive to bring important research and technology into public aware
 
 **This is a list of our repositories and also forks of relevant repositories from others.**
 
-![SDR_Distance_Radar](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) [SDR_Distance_Radar](https://github.com/subliminalindustries/SDR_Distance_Radar)
+[![SDR_Distance_Radar](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) SDR_Distance_Radar](https://github.com/subliminalindustries/SDR_Distance_Radar)
 - Forked from:     [SnipSnapp/SDR_Distance_Radar](https://github.com/SnipSnapp/SDR_Distance_Radar)
 - Description:     Gets an approximate distance from a radio source, and displays it in an HTML map with a circle around it. Your radio source is somewhere outside of the circle thanks to the neato-burrito thing called interference.
 - Custom changes:  Bug fixes, changes to distance estimation, dynamic circle.
 - TODO:            Move to [leaflet.js](https://leafletjs.com/) in order to integrate with [Paimon's Candles](#)
 ___
 
-![v2kblocker](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) [v2kblocker](https://github.com/subliminalindustries/v2kblocker)
+[![v2kblocker](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) v2kblocker](https://github.com/subliminalindustries/v2kblocker)
 - Description:     Randomized micro-sampling V2K audio renderer
 ___
 
-![v2kbooster](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) [v2kbooster](https://github.com/subliminalindustries/v2kbooster)
+[![v2kbooster](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) v2kbooster](https://github.com/subliminalindustries/v2kbooster)
 - Description:     Novel v2k audio booster using spectral salience and the smoothed derivative of the instantaneous frequency from the Hilbert transform.
 ___
 
-![neuropa](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) [neuropa](https://github.com/subliminalindustries/neuropa)
+[![neuropa](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) neuropa](https://github.com/subliminalindustries/neuropa)
 - Forked from:     [titola/neuropa](https://github.com/titola/neuropa)
 - Description:     Analysis of an attack with directed energy weapons (DEW)
 ___
 
-![SDRReradiationSpectrumAnalyzer](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) [SDRReradiationSpectrumAnalyzer](https://github.com/subliminalindustries/SDRReradiationSpectrumAnalyzer)
+[![SDRReradiationSpectrumAnalyzer](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) SDRReradiationSpectrumAnalyzer](https://github.com/subliminalindustries/SDRReradiationSpectrumAnalyzer)
 - Forked from:     [ClintMclean74/SDRReradiationSpectrumAnalyzer](https://github.com/ClintMclean74/SDRReradiationSpectrumAnalyzer)
 - Description:     SDR Spectrum Analyzer for Detection of Reradiated and Emitted Radio and Microwave Energy from Humans
 - Custom changes:  Enabled compilation on OS X
 ___
 
-![freydom](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) [freydom](https://github.com/subliminalindustries/freydom)
+[![freydom](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) freydom](https://github.com/subliminalindustries/freydom)
 - Description:     Microwave auditory effect vocal content isolator
 ___
 
-![simple-audio-correlator](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) [simple-audio-correlator](https://github.com/subliminalindustries/simple-audio-correlator)
+[![simple-audio-correlator](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) simple-audio-correlator](https://github.com/subliminalindustries/simple-audio-correlator)
 - Forked from:     [chrissamuel/simple-audio-correlator](https://github.com/chrissamuel/simple-audio-correlator)
 - Description:     Simple Audio Correlator is a client/server suite for correlating the audio output of radio receivers
 
