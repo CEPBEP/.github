@@ -131,5 +131,6 @@ Only a scientific and experimental approach may yield a check-mate result.
     We are <i>growing</i>.<br/>
     We are <i>overcoming</i>.<br/>
 </div>
+<br/>
 
 **We will prevail!**
