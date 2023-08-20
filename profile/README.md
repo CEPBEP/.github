@@ -120,7 +120,11 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 It is our mission to conclusively prove the use of these weapons on civilians, to do that well enough to have the results accepted with scientific rigor, and to finally hold those behind the attacks accountable for their heinous crimes against humanity. 
 
-Only a scientific and experimental approach may yield results.
+<div style="border-style: solid; border-width: thin; border-color: lightgrey;" align="center" width="100%"> 
+    <img alt="targeting" width="100%" src="https://raw.githubusercontent.com/subliminalindustries/.github/main/profile/assets/mission.png">
+</div>
+
+Only a scientific and experimental approach may yield a check-mate result.
 
 We are Subliminal Industries.
 We are _growing_.
