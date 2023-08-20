@@ -16,7 +16,7 @@ Every day we strive to bring important research and technology into public aware
 
 **This is a list of our repositories and also forks of relevant repositories from others.**
 
-<div style="border-style: solid; border-width: thin; border-color: lightgrey;">
+<div style="border-style: solid; border-width: 1px; border-color: white;">
     <a href="https://github.com/subliminalindustries/SDR_Distance_Radar">
         SDR_Distance_Radar
     </a>
@@ -27,7 +27,7 @@ Every day we strive to bring important research and technology into public aware
         Gets an approximate distance from a radio source, and displays it in an HTML map with a circle around it. Your radio source is somewhere outside of the circle thanks to the neato-burrito thing called interference.
     </p>
 </div>
-<div style="border-style: solid; border-width: thin; border-color: lightgrey;">
+<div style="border-style: solid; border-width: 1px; border-color: white;">
     <a href="https://github.com/subliminalindustries/v2kblocker">
         v2kblocker
     </a>
@@ -35,7 +35,7 @@ Every day we strive to bring important research and technology into public aware
         Randomized micro-sampling V2K audio renderer
     </p> 
 </div>
-<div style="border-style: solid; border-width: thin; border-color: lightgrey;">
+<div style="border-style: solid; border-width: 1px; border-color: white;">
     <a href="https://github.com/subliminalindustries/v2kbooster">
         v2kbooster
     </a>
@@ -43,7 +43,7 @@ Every day we strive to bring important research and technology into public aware
         Novel v2k audio booster using spectral salience and the smoothed derivative of the instantaneous frequency from the Hilbert transform.
     </p>
 </div>
-<div style="border-style: solid; border-width: thin; border-color: lightgrey;">
+<div style="border-style: solid; border-width: 1px; border-color: white;">
     <a href="https://github.com/subliminalindustries/neuropa">
         neuropa
     </a>
@@ -54,7 +54,7 @@ Every day we strive to bring important research and technology into public aware
         Analysis of an attack with directed energy weapons (DEW)
     </p>
 </div>
-<div style="border-style: solid; border-width: thin; border-color: lightgrey;">
+<div style="border-style: solid; border-width: 1px; border-color: white;">
     <a href="https://github.com/subliminalindustries/SDRReradiationSpectrumAnalyzer">
         SDRReradiationSpectrumAnalyzer
     </a>
@@ -65,7 +65,7 @@ Every day we strive to bring important research and technology into public aware
         SDR Spectrum Analyzer for Detection of Reradiated and Emitted Radio and Microwave Energy from Humans (made to compile on OS X)
     </p>
 </div>
-<div style="border-style: solid; border-width: thin; border-color: lightgrey;">
+<div style="border-style: solid; border-width: 1px; border-color: white;">
     <a href="https://github.com/subliminalindustries/freydom">
         freydom
     </a>
@@ -73,7 +73,7 @@ Every day we strive to bring important research and technology into public aware
         Microwave auditory effect vocal content isolator
     </p>   
 </div>
-<div style="border-style: solid; border-width: thin; border-color: lightgrey;">
+<div style="border-style: solid; border-width: 1px; border-color: white;">
     <a href="https://github.com/subliminalindustries/simple-audio-correlator">
         simple-audio-correlator
     </a>
