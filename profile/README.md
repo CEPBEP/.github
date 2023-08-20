@@ -126,8 +126,10 @@ Lastly when the target is still not down and out, the physical attacks are rampe
 
 Only a scientific and experimental approach may yield a check-mate result.
 
-We are Subliminal Industries.\n
-We are _growing_.
-We are _discovering_.
+<div>
+    We are Subliminal Industries.<br/>
+    We are <i>growing</i>.<br/>
+    We are <i>overcoming</i>.<br/>
+</div>
 
 **We will prevail!**
