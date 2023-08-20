@@ -16,7 +16,7 @@ Every day we strive to bring important research and technology into public aware
 
 This is a list of our repositories and also forks of relevant repositories from others.
 
-📡&ensp;**RF Tools**
+### 📡 RF Tools
 
 [![paimons-candles](https://avatars.githubusercontent.com/u/134062846?s=14&v=4)&ensp;paimons-candles](https://github.com/subliminalindustries/paimons-candles)
 - **Description**:     Detect when and where RF beams from cell-towers hit the body
@@ -43,7 +43,7 @@ ___
 - **Status**:          Complete
 ___
 
-🎧 **Audio Tools**
+### 🎧 Audio Tools
 
 [![v2kblocker](https://avatars.githubusercontent.com/u/134062846?s=14&v=4)&ensp;v2kblocker](https://github.com/subliminalindustries/v2kblocker)
 - **Description**:     Randomized micro-sampling V2K audio renderer
@@ -60,7 +60,7 @@ ___
 - **Status**:          Complete
 ___
 
-🗃️ **Miscellaneous**
+### 🗃️ Miscellaneous
 
 [![neuropa](https://avatars.githubusercontent.com/u/134062846?s=14&v=4)&ensp;neuropa](https://github.com/subliminalindustries/neuropa)
 - **Forked from**:     [titola/neuropa](https://github.com/titola/neuropa)
