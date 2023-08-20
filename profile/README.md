@@ -27,6 +27,7 @@ Every day we strive to bring important research and technology into public aware
         Gets an approximate distance from a radio source, and displays it in an HTML map with a circle around it. Your radio source is somewhere outside of the circle thanks to the neato-burrito thing called interference.
     </p>
 </div>
+<hr/>
 <div style="border-style: solid; border-width: 1px; border-color: white;">
     <a href="https://github.com/subliminalindustries/v2kblocker">
         v2kblocker
@@ -35,6 +36,7 @@ Every day we strive to bring important research and technology into public aware
         Randomized micro-sampling V2K audio renderer
     </p> 
 </div>
+<hr/>
 <div style="border-style: solid; border-width: 1px; border-color: white;">
     <a href="https://github.com/subliminalindustries/v2kbooster">
         v2kbooster
@@ -43,6 +45,7 @@ Every day we strive to bring important research and technology into public aware
         Novel v2k audio booster using spectral salience and the smoothed derivative of the instantaneous frequency from the Hilbert transform.
     </p>
 </div>
+<hr/>
 <div style="border-style: solid; border-width: 1px; border-color: white;">
     <a href="https://github.com/subliminalindustries/neuropa">
         neuropa
@@ -54,6 +57,7 @@ Every day we strive to bring important research and technology into public aware
         Analysis of an attack with directed energy weapons (DEW)
     </p>
 </div>
+<hr/>
 <div style="border-style: solid; border-width: 1px; border-color: white;">
     <a href="https://github.com/subliminalindustries/SDRReradiationSpectrumAnalyzer">
         SDRReradiationSpectrumAnalyzer
@@ -65,6 +69,7 @@ Every day we strive to bring important research and technology into public aware
         SDR Spectrum Analyzer for Detection of Reradiated and Emitted Radio and Microwave Energy from Humans (made to compile on OS X)
     </p>
 </div>
+<hr/>
 <div style="border-style: solid; border-width: 1px; border-color: white;">
     <a href="https://github.com/subliminalindustries/freydom">
         freydom
@@ -73,6 +78,7 @@ Every day we strive to bring important research and technology into public aware
         Microwave auditory effect vocal content isolator
     </p>   
 </div>
+<hr/>
 <div style="border-style: solid; border-width: 1px; border-color: white;">
     <a href="https://github.com/subliminalindustries/simple-audio-correlator">
         simple-audio-correlator
@@ -84,7 +90,7 @@ Every day we strive to bring important research and technology into public aware
         SAC- The Simple Audio Correlator is a client/server suite for correlating the audio output of radio receivers, storing the data to disk, rejecting interference, plotting it, etc, etc..
     </p>
 </div>
-
+<hr/>
 
 ### Directed Energy Weapons Used On Citizens
 
