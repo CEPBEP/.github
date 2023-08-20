@@ -50,7 +50,7 @@ ___
 ### 🎧 Audio Tools
 
 [![v2kblocker](https://avatars.githubusercontent.com/u/134062846?s=14&v=4)&ensp;v2kblocker](https://github.com/subliminalindustries/v2kblocker)
-- **Description**:     Randomized micro-sampling V2K audio renderer
+- **Description**:     Randomized micro-sampling V2K-blocking audio renderer
 - **Status**:          Work in Progress
 ___
 
