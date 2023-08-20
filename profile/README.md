@@ -8,9 +8,15 @@
 
 ## What we do
 
-We research, develop and provide software and hardware to detect, research and combat the use of directed energy weapons on civilians.
+<div align="left">
+    We research, develop and provide software and hardware to detect, research and combat the use of directed energy weapons on civilians.
+    <br/>
+    Every day we strive to bring important research and technology into public awareness. Our primary mission is developing passive and active shielding the effects of directed energy    weapons. Our secondary mission is researching and understanding the technologies involved and publishing our findings. Our third mission is decloaking those involved in bringing this horrible travesty of justice into our societies.
+</div>
+<div align="right">
+    <img src="https://raw.githubusercontent.com/subliminalindustries/.github/main/profile/assets/targeting.png"> 
+</div>
 
-Every day we strive to bring important research and technology into public awareness. Our primary mission is developing passive and active shielding the effects of directed energy weapons. Our secondary mission is researching and understanding the technologies involved and publishing our findings. Our third mission is decloaking those involved in bringing this horrible travesty of justice into our societies.
 
 ## Repositories
 
