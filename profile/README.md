@@ -6,7 +6,7 @@
     <h3>We will prevail!</h3>
 </div>
 
-### Our Specialisation
+## What we do
 
 We specialize in software and hardware to detect, research and combat the use of directed energy weapons on civilians.
 
