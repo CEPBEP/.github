@@ -8,7 +8,7 @@
 
 ## What we do
 
-![Targeting](https://raw.githubusercontent.com/subliminalindustries/.github/main/profile/assets/targeting.png){width: 100%}
+<img alt="targeting" align="center" src="https://raw.githubusercontent.com/subliminalindustries/.github/main/profile/assets/targeting.png">
 
 We research, develop and provide software and hardware to detect, research and combat the use of directed energy weapons on civilians.
 
