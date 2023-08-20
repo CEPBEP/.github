@@ -16,47 +16,47 @@ Every day we strive to bring important research and technology into public aware
 
 **This is a list of our repositories and also forks of relevant repositories from others.**
   
-<a itemprop="name codeRepository" data-hovercard-type="repository" data-hovercard-url="/subliminalindustries/SDR_Distance_Radar/hovercard" href="/subliminalindustries/SDR_Distance_Radar" data-view-component="true" class="Link f4 d-inline-block text-bold mr-1">
-          SDR_Distance_Radar
+<a href="https://github.com/subliminalindustries/SDR_Distance_Radar">
+    SDR_Distance_Radar
 </a>
-<p itemprop="description" data-view-component="true" class="color-fg-muted mb-3 wb-break-word">
-            Gets an approximate distance from a radio source, and displays it in an HTML map with a circle around it. Your radio source is somewhere outside of the circle thanks to the neato-burrito thing called interference.
+<p>
+    Gets an approximate distance from a radio source, and displays it in an HTML map with a circle around it. Your radio source is somewhere outside of the circle thanks to the neato-burrito thing called interference.
 </p>
-<a itemprop="name codeRepository" data-hovercard-type="repository" data-hovercard-url="/subliminalindustries/v2kblocker/hovercard" href="/subliminalindustries/v2kblocker" data-view-component="true" class="Link f4 d-inline-block text-bold mr-1">
-          v2kblocker
+<a href="https://github.com/subliminalindustries/v2kblocker">
+    v2kblocker
 </a>
-<p itemprop="description" data-view-component="true" class="color-fg-muted mb-3 wb-break-word">
-            Randomized micro-sampling V2K audio renderer
+<p">
+    Randomized micro-sampling V2K audio renderer
 </p>
-<a itemprop="name codeRepository" data-hovercard-type="repository" data-hovercard-url="/subliminalindustries/v2kbooster/hovercard" href="/subliminalindustries/v2kbooster" data-view-component="true" class="Link f4 d-inline-block text-bold mr-1">
-          v2kbooster
+<a href="https://github.com/subliminalindustries/v2kbooster">
+    v2kbooster
 </a>
-<p itemprop="description" data-view-component="true" class="color-fg-muted mb-3 wb-break-word">
-            Novel v2k audio booster using spectral salience and the smoothed derivative of the instantaneous frequency from the Hilbert transform.
+<p>
+    Novel v2k audio booster using spectral salience and the smoothed derivative of the instantaneous frequency from the Hilbert transform.
 </p>
-<a itemprop="name codeRepository" data-hovercard-type="repository" data-hovercard-url="/subliminalindustries/neuropa/hovercard" href="/subliminalindustries/neuropa" data-view-component="true" class="Link f4 d-inline-block text-bold mr-1">
-          neuropa
+<a href="https://github.com/subliminalindustries/neuropa">
+    neuropa
 </a>
-<p itemprop="description" data-view-component="true" class="color-fg-muted mb-3 wb-break-word">
-            Analysis of an attack with directed energy weapons (DEW)
+<p>
+    Analysis of an attack with directed energy weapons (DEW)
 </p>
-<a itemprop="name codeRepository" data-hovercard-type="repository" data-hovercard-url="/subliminalindustries/SDRReradiationSpectrumAnalyzer/hovercard" href="/subliminalindustries/SDRReradiationSpectrumAnalyzer" data-view-component="true" class="Link f4 d-inline-block text-bold mr-1">
-          SDRReradiationSpectrumAnalyzer
+<a href="https://github.com/subliminalindustries/SDRReradiationSpectrumAnalyzer">
+    SDRReradiationSpectrumAnalyzer
 </a>
-<p itemprop="description" data-view-component="true" class="color-fg-muted mb-3 wb-break-word">
-            A fork of ClintMclean74/SDRReradiationSpectrumAnalyzer made to compile on OS X
+<p>
+    A fork of ClintMclean74/SDRReradiationSpectrumAnalyzer made to compile on OS X
 </p>
-<a itemprop="name codeRepository" data-hovercard-type="repository" data-hovercard-url="/subliminalindustries/freydom/hovercard" href="/subliminalindustries/freydom" data-view-component="true" class="Link f4 d-inline-block text-bold mr-1">
-          freydom
+<a href="https://github.com/subliminalindustries/freydom">
+    freydom
 </a>
-<p itemprop="description" data-view-component="true" class="color-fg-muted mb-3 wb-break-word">
-            Microwave auditory effect vocal content isolator
+<p>
+    Microwave auditory effect vocal content isolator
 </p>
-<a itemprop="name codeRepository" data-hovercard-type="repository" data-hovercard-url="/subliminalindustries/simple-audio-correlator/hovercard" href="/subliminalindustries/simple-audio-correlator" data-view-component="true" class="Link f4 d-inline-block text-bold mr-1">
-          simple-audio-correlator
+<a href="https://github.com/subliminalindustries/simple-audio-correlator">
+    simple-audio-correlator
 </a>
-<p itemprop="description" data-view-component="true" class="color-fg-muted mb-3 wb-break-word">
-            SAC- The Simple Audio Correlator is a client/server suite for correlating the audio output of radio receivers, storing the data to disk, rejecting interference, plotting it, etc, etc..
+<p>
+    SAC- The Simple Audio Correlator is a client/server suite for correlating the audio output of radio receivers, storing the data to disk, rejecting interference, plotting it, etc, etc..
 </p>
 
 ### Directed Energy Weapons Used On Citizens
