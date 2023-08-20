@@ -16,7 +16,7 @@ Every day we strive to bring important research and technology into public aware
 
 This is a list of our repositories and also forks of relevant repositories from others.
 
-**RF Tools**
+📡 **RF Tools**
 
 [![SDR_Distance_Radar](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) SDR_Distance_Radar](https://github.com/subliminalindustries/SDR_Distance_Radar)
 - Forked from:     [SnipSnapp/SDR_Distance_Radar](https://github.com/SnipSnapp/SDR_Distance_Radar)
@@ -36,7 +36,7 @@ ___
 - Description:     Simple Audio Correlator is a client/server suite for correlating the audio output of radio receivers
 ___
 
-**Audio Tools**
+🎧 **Audio Tools**
 
 [![v2kblocker](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) v2kblocker](https://github.com/subliminalindustries/v2kblocker)
 - Description:     Randomized micro-sampling V2K audio renderer
@@ -50,7 +50,7 @@ ___
 - Description:     Microwave auditory effect vocal content isolator
 ___
 
-**Miscellaneous**
+🗃️ **Miscellaneous**
 
 [![neuropa](https://avatars.githubusercontent.com/u/134062846?s=16&v=4) neuropa](https://github.com/subliminalindustries/neuropa)
 - Forked from:     [titola/neuropa](https://github.com/titola/neuropa)
