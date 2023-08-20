@@ -21,6 +21,9 @@ Every day we strive to bring important research and technology into public aware
         SDR_Distance_Radar
     </a>
     <p>
+        <span>Forked from:&nbsp;<a href="https://github.com/SnipSnapp/SDR_Distance_Radar">SnipSnapp/SDR_Distance_Radar</a></span>
+    </p>
+    <p>
         Gets an approximate distance from a radio source, and displays it in an HTML map with a circle around it. Your radio source is somewhere outside of the circle thanks to the neato-burrito thing called interference.
     </p>
 </div>
@@ -45,7 +48,7 @@ Every day we strive to bring important research and technology into public aware
         neuropa
     </a>
     <p>
-        Forked from: [titola/neuropa](https://github.com/titola/neuropa).
+        <span>Forked from:&nbsp;<a href="https://github.com/subliminalindustries/neuropa">titola/neuropa</a></span>
     </p>
     <p>
         Analysis of an attack with directed energy weapons (DEW)
@@ -56,10 +59,10 @@ Every day we strive to bring important research and technology into public aware
         SDRReradiationSpectrumAnalyzer
     </a>
     <p>
-        Forked from: [ClintMclean74/SDRReradiationSpectrumAnalyzer](https://github.com/ClintMclean74/SDRReradiationSpectrumAnalyzer) (made to compile on OS X)
+        <span>Forked from:&nbsp;<a href="https://github.com/ClintMclean74/SDRReradiationSpectrumAnalyzer">ClintMclean74/SDRReradiationSpectrumAnalyzer</a>&nbsp;</span>
     </p>
     <p>
-        SDR Spectrum Analyzer for Detection of Reradiated and Emitted Radio and Microwave Energy from Humans
+        SDR Spectrum Analyzer for Detection of Reradiated and Emitted Radio and Microwave Energy from Humans (made to compile on OS X)
     </p>
 </div>
 <div>
@@ -75,7 +78,7 @@ Every day we strive to bring important research and technology into public aware
         simple-audio-correlator
     </a>
     <p>
-        Forked from: [chrissamuel/simple-audio-correlator](https://github.com/chrissamuel/simple-audio-correlator)
+        <span>Forked from:&nbsp;<a href="https://github.com/chrissamuel/simple-audio-correlator">chrissamuel/simple-audio-correlator</a></span>
     </p>
     <p>
         SAC- The Simple Audio Correlator is a client/server suite for correlating the audio output of radio receivers, storing the data to disk, rejecting interference, plotting it, etc, etc..
