@@ -12,9 +12,9 @@ We specialize in software and hardware to detect, research and combat the use of
 
 Every day we strive to bring important research and technology into public awareness. Our primary mission is developing passive and active shielding the effects of directed energy weapons. Our secondary mission is researching and understanding the technologies involved and publishing our findings. Our third mission is decloaking those involved in bringing this horrible travesty of justice into our societies.
 
-## Our Repositories
+## Repositories
 
-
+**This is a list of our repositories and also forks of relevant repositories from others.**
   
 <a itemprop="name codeRepository" data-hovercard-type="repository" data-hovercard-url="/subliminalindustries/SDR_Distance_Radar/hovercard" href="/subliminalindustries/SDR_Distance_Radar" data-view-component="true" class="Link f4 d-inline-block text-bold mr-1">
           SDR_Distance_Radar
