@@ -14,7 +14,7 @@
     <img alt="targeting" width="100%" src="https://raw.githubusercontent.com/subliminalindustries/.github/main/profile/assets/targeting.png">
 </div>
 
-Every day we strive to bring important research and technology into public awareness. Our primary mission is developing passive and active shielding the effects of directed energy    weapons. Our secondary mission is researching and understanding the technologies involved and publishing our findings. Our third mission is decloaking those involved in bringing this horrible travesty of justice into our societies.
+Every day we strive to bring important research and technology into public awareness. Our primary mission is developing passive and active to shield against the effects of directed energy weapons. Our secondary mission is researching and understanding the technologies involved and publishing our findings. Our third mission is decloaking those involved in bringing this horrible travesty of justice into our societies.
 
 ## Repositories
 
